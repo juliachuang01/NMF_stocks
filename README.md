@@ -1,6 +1,6 @@
 ## NMF_stocks
 
-This is a mini-project using NMF to assemble stock portfolios.
+This is a mini-project using dynamic network analysis and NMF to assemble stock portfolios.
 
 The aim of this project is to pick stocks whose prices move in dissimilar directions in response to market trends.
 
